@@ -4,6 +4,7 @@ gee.py
 split_map.py 
 test.py 
 authenticate.py
+im_env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
